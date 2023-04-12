@@ -1,0 +1,9 @@
+﻿@page "{reportID:int}"
+@model skibd.Pages.Reports.DetailsModel
+@{
+    ViewData["Title"] = $"Report {Model.Report?.Id}";
+}
+
+<div class="container">
+    @Html.Raw(Model.Report?.MarkDown)
+</div>

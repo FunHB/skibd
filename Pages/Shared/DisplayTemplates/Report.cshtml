@@ -1,0 +1,6 @@
+﻿@using skibd.API.Models;
+@model Report
+
+<a class="list-group-item list-group-item-action" asp-area="" asp-page="/Reports/Details" asp-route-reportId="@Model.Id">
+    Report @Model.Id (@Model.Date.ToString("dd.MM"))
+</a>

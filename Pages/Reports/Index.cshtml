@@ -1,0 +1,16 @@
+﻿@page
+@using skibd.API.Services;
+@model ReportsModel
+@inject IReportService ReportService
+@{
+    ViewData["Title"] = "Reports";
+}
+
+<div class="container">
+
+    <h3 class="display-4">Reports</h3>
+
+    <div class="list-group w-25 mt-5">
+        @Html.DisplayFor(model => ReportService.Reports)
+    </div>
+</div>

@@ -1,0 +1,8 @@
+C:\Users\FunHB\Desktop\asd\skibd\obj\Docker\publish\skibd.exe
+C:\Users\FunHB\Desktop\asd\skibd\obj\Docker\publish\appsettings.Development.json
+C:\Users\FunHB\Desktop\asd\skibd\obj\Docker\publish\appsettings.json
+C:\Users\FunHB\Desktop\asd\skibd\obj\Docker\publish\skibd.dll
+C:\Users\FunHB\Desktop\asd\skibd\obj\Docker\publish\skibd.deps.json
+C:\Users\FunHB\Desktop\asd\skibd\obj\Docker\publish\skibd.runtimeconfig.json
+C:\Users\FunHB\Desktop\asd\skibd\obj\Docker\publish\skibd.pdb
+C:\Users\FunHB\Desktop\asd\skibd\obj\Docker\publish\Markdig.dll
